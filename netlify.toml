@@ -1,0 +1,2 @@
+﻿[build] base = "interactive-demo/farm-app" command = "npm run build" publish = "interactive-demo/farm-app/build"
+[[redirects]] from = "/*" to = "/index.html" status = 200 force = true
