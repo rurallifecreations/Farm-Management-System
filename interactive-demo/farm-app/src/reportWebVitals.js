@@ -1,0 +1,1 @@
+function reportWebVitals(onPerfEntry) { // no-op for production build } module.exports = reportWebVitals;
