@@ -1,3 +1,3 @@
-﻿[build] base = "interactive-demo/farm-app" command = "npm run build" publish = "build"
+[build] base = "interactive-demo/farm-app" command = "npm run build" publish = "build"
 
 [[redirects]] from = "/*" to = "/index.html" status = 200
