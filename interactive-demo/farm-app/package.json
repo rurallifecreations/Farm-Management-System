@@ -40,7 +40,7 @@
                             "run":  "^1.5.0",
                             "tailwindcss":  "^4.1.17"
                         },
-    "homepage":  "https://rurallifecreations.github.io/Farm-Management-System",
+    "homepage":  ".",
     "scripts":  {
                     "deploy":  "gh-pages -d build",
                     "build":  "react-scripts build",
