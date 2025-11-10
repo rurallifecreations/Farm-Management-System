@@ -1,10 +1,1 @@
-[build]
-  base = "interactive-demo/farm-app"
-  command = "npm run build"
-  publish = "build"
-
-[[redirects]]
-  from = "/*"
-  to = "/index.html"
-  status = 200
-# do NOT include `force = true`
+[build] base = "interactive-demo/farm-app" command = "npm run build" publish = "build"
